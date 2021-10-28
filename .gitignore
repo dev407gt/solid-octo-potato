@@ -1,0 +1,10 @@
+foo.json
+node_modules
+aws-creds.png
+aws-creds.txt
+.env
+msg.txt
+deftaxes_us.json
+tokentx.json
+test.json
+internaltx/*
