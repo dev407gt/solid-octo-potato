@@ -121,7 +121,7 @@ const runner2 = async () => {
       console.log(tokeninfo)
       console.log('----------------------\n')
       
-      // TODO: 
+      // TODO: convert to this format eventually to quickly add together income, cap gains, cap loss
       // row = {
       //   tax_treatment: '',
       //   rate: '',
