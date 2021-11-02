@@ -1,0 +1,1049 @@
+[
+	{
+		"type": "unknown or transfer",
+		"hash": "0xe8edc38bf78e304621ba0290dcbdec973b2cbf6314bc7183a6383e1aea017dbd",
+		"timestamp": "1592338506",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0xcaf76e98bea48e90c1a72a6ab75ff16856d4aba3",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 0.08513217,
+				"token": "ETH",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "COMPOUND - unknown",
+		"hash": "0xf2183d91380937f860123645149e843adb4d0076939e129f77956647bc01c2f2",
+		"timestamp": "1592339702",
+		"rows": []
+	},
+	{
+		"type": "COMPOUND - mint",
+		"hash": "0x3844d73adede35b918662fde694f6312f411f5d803e24b202adcc0e579deeca2",
+		"timestamp": "1592339908",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+				"amount": 0.07,
+				"token": "ETH",
+				"rate": 0
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "contract",
+				"to": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+				"amount": 3.49787518,
+				"token": "cETH",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0x630dd43d71b274ac809d4ffe7e5ed59feac262621bd82073c9dc613bc014f4ba",
+		"timestamp": "1592340180",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0xf0548555af59d07564256a6991e8028e45a5363b",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 0.21287597,
+				"token": "ETH",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "COMPOUND - borrow",
+		"hash": "0x36d640c4d23d72fdaa31630979edf07b2a78ef0648fc635c2691556144a9bd12",
+		"timestamp": "1592340255",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 9.750461,
+				"token": "USDC",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "USD COIN - approve",
+		"hash": "0x6ef6133b34bbebf847ec14056d4466f45a23cc4b9357face0aa9b656bb3e83ce",
+		"timestamp": "1592340393",
+		"rows": []
+	},
+	{
+		"type": "USD COIN - transfer",
+		"hash": "0xe5a3380c96a7ad83b43c6a2908686c2475c1808affa042ea47dc0698c5033691",
+		"timestamp": "1592340927",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xaca8a16aaaad566f0cb0dae92c858af70358e86f",
+				"amount": 9.750461,
+				"token": "USDC",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0xe2c11cd901f0035cf6b155adf8e8c95abeef09b9858485370b8c13ecccc28f4b",
+		"timestamp": "1592421351",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0x5e24289c110a3ed4192d9e9bd384b1fb37449d03",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 2.1490818,
+				"token": "ETH",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "COMPOUND - repayBorrow",
+		"hash": "0x7a745c96fe7642b7db72d64198fb6fb36b14a04fab82f960a00ceaffbda498bd",
+		"timestamp": "1592422862",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+				"amount": 9.751362,
+				"token": "USDC",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "COMPOUND - unknown",
+		"hash": "0x9f3e9a8e2042f6e50831213646778c3789b681d495fe13a801eb686c0c967e19",
+		"timestamp": "1592423248",
+		"rows": []
+	},
+	{
+		"type": "COMPOUND - redeem",
+		"hash": "0x455fdeb4ca023d41fe17fe643f9ccb206151581340ea9b2035b86ce2c6b26a70",
+		"timestamp": "1592423478",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+				"amount": 3.49787518,
+				"token": "cETH",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "COMPOUND - unknown",
+		"hash": "0x18b3c9341aeb9e172c153c0e848f4dc672adbdac0a927fa851a1c6b92b6dd67e",
+		"timestamp": "1592423637",
+		"rows": []
+	},
+	{
+		"type": "COMPOUND - mint",
+		"hash": "0xe7372e51d83fd7bebaf8e406f98d05b23c21166f82bddf0b16535bdcd963f9a0",
+		"timestamp": "1592423828",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+				"amount": 2.41,
+				"token": "ETH",
+				"rate": 0
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "contract",
+				"to": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+				"amount": 120.42682758,
+				"token": "cETH",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0x5789a9681ef66a6c4a4dfeb1688f8e37f1794a37679c384e3766abcfb36f82f1",
+		"timestamp": "1592424286",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0xc1d7141ffddc65267546c327ffb1cefc22283ce9",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 0.021697,
+				"token": "ETH",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "COMPOUND - borrow",
+		"hash": "0x2b6570df27e439568d7164eb0dd9e4aeb12cee122b8e74f23db607e224e66717",
+		"timestamp": "1592424604",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0x0000000000000000000000000000000000000000",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 328,
+				"token": "DAI",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "DAI STABLECOIN - transfer",
+		"hash": "0xd272c110b82d3e70ba9b27537d4a660edf3e1eb094c4f7c944809352a2522314",
+		"timestamp": "1592425114",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x118cf5d0159a0620e75bbb913dbbd6a2ed35be86",
+				"amount": 328,
+				"token": "DAI",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "USD COIN - approve",
+		"hash": "0x1de57ee325d80b68b50c2fdae4070b78170a3cea3b75a2e544030b88e5b1e7c9",
+		"timestamp": "1615436856",
+		"rows": []
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0x6a6dcfe610cd80dc4d61d2c1332bcf1108476f0ca1124f50c54425325c53b8ba",
+		"timestamp": "1615437064",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0x641d24f1dd0c80f0b5ddd9ecf60d7a32f41020f4",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 0.41180678095374657,
+				"token": "ETH",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "COMPOUND - borrow",
+		"hash": "0x676ef29327e6b5db8068aa75e2f59be0afc0756556c3642c6963e7c1b7b4e4e4",
+		"timestamp": "1615437265",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 1000,
+				"token": "DAI",
+				"rate": 1.0037180051257384
+			}
+		]
+	},
+	{
+		"type": "ZAPPER.FI - ZapIn",
+		"hash": "0x8b03f65b87728cc4891b66263edd570fe71cf89ccbad4a12730d7b66ba143b59",
+		"timestamp": "1615437398",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x5acedba6c402e2682d312a7b4982eda0ccf2d2e3",
+				"amount": 21000.516709,
+				"token": "USDC",
+				"rate": 1.0042591904465838
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "0x5acedba6c402e2682d312a7b4982eda0ccf2d2e3",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 3713.859659413341,
+				"token": "UNI-V2",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "DAI STABLECOIN - approve",
+		"hash": "0x432576adafd0083e0e37cfa2a507d01953ebb5ef2a2ae2e6cc747888109769ed",
+		"timestamp": "1615437494",
+		"rows": []
+	},
+	{
+		"type": "UNISWAP V2 - approve",
+		"hash": "0x88859fb36700756e945107bc9b1fe62b737f76e7071448909e875a08581d7fbd",
+		"timestamp": "1615437594",
+		"rows": []
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0xd5124ff782fdfc493746d0685f36ac93c408830b8456d54cfecf76a3e84c51b6",
+		"timestamp": "1615437594",
+		"rows": []
+	},
+	{
+		"type": "undefined - stake",
+		"hash": "0x8ea5b560395bb162f775691395edc10714ed2e42c5fc82f043b049bb9c84ba9a",
+		"timestamp": "1615437726",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x5d447fc0f8965ced158bab42414af10139edf0af",
+				"amount": 3713.859659413341,
+				"token": "UNI-V2",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "0X - unknown",
+		"hash": "0x6db7d3101ab35e40dc84c1ef537322c9fada6b1d0d50fcb8624daa0561976eaf",
+		"timestamp": "1615438114",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xc3d03e4f041fd4cd388c549ee2a29a9e5075882f",
+				"amount": 1000,
+				"token": "DAI",
+				"rate": 1.0037180051257384
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "0x31d64f9403e82243e71c2af9d8f56c7dbe10c178",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 3.67535118470808,
+				"token": "NFTX",
+				"rate": 153.910114152091
+			}
+		]
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0xe63afc89ebba19b6c75e2c7585780143425ba5ffd294116cdbb098f6d93b3650",
+		"timestamp": "1615670681",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xbd178fe085a12505473a96a57d6f2ce0bbf3a490",
+				"amount": 0.25,
+				"token": "ETH",
+				"rate": 1927.7207203999014
+			}
+		]
+	},
+	{
+		"type": "undefined - exit",
+		"hash": "0xc58e9c5e87fe0381b866217b0ff14ab3b500bb456af4b983e846b95e990b281a",
+		"timestamp": "1615694394",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0x5d447fc0f8965ced158bab42414af10139edf0af",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 3713.859659413341,
+				"token": "UNI-V2",
+				"rate": 0
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "0x5d447fc0f8965ced158bab42414af10139edf0af",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 48.029958506854776,
+				"token": "MIR",
+				"rate": 2.8101129926728845
+			}
+		]
+	},
+	{
+		"type": "UNISWAP V2 - approve",
+		"hash": "0x8f2ca24d5194d23c32ecebe694503979ce42e1178c78fc1e5eb217277b4a77e4",
+		"timestamp": "1615694485",
+		"rows": []
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0x485306cd31f230f51d122084c656c8e98b89b7a9cc9ddbb81dca8ff012227d80",
+		"timestamp": "1615694653",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0xbd178fe085a12505473a96a57d6f2ce0bbf3a490",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 0.3,
+				"token": "ETH",
+				"rate": 1866.0715447008808
+			}
+		]
+	},
+	{
+		"type": "ZAPPER.FI - ZapOut",
+		"hash": "0xa906fca92737d9a9d529effb6df88442ef084b3d4abf05ab6af40493340c8581",
+		"timestamp": "1615694927",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x69090d6968b12b79cd403ee33e871284dc7e92f6",
+				"amount": 3713.859659413341,
+				"token": "UNI-V2",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "ZAPPER.FI - ZapIn",
+		"hash": "0x60af9c731784d4ac95f45e2bbd103d910bc7be7eda7ec024972eb99656f1ce1d",
+		"timestamp": "1615695084",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xcff6ef0b9916682b37d80c19cff8949bc1886bc2",
+				"amount": 11,
+				"token": "ETH",
+				"rate": 1866.0715447008808
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "0xcff6ef0b9916682b37d80c19cff8949bc1886bc2",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 5.8782370116538,
+				"token": "SLP",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "SUSHISWAP - approve",
+		"hash": "0xed407a33ac40c27db1d156bcf8c8ac3e24f02f6b4ead95d4209a653408e0b31b",
+		"timestamp": "1615695577",
+		"rows": []
+	},
+	{
+		"type": "ALCHEMIX - deposit",
+		"hash": "0xe465b6218a4bb50faa1e03c897fac16824a4b2179207905fcf2c3ded0aa31ff3",
+		"timestamp": "1615695636",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xab8e74017a8cc7c15ffccd726603790d26d7deca",
+				"amount": 5.8782370116538,
+				"token": "SLP",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "ALCHEMIX - claim",
+		"hash": "0xdceae0556728a0f0a02849d8030797c1dc58d690bea13e60c5c052fbf26f8b27",
+		"timestamp": "1616040001",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0x0000000000000000000000000000000000000000",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 1.1572021381863542,
+				"token": "ALCX",
+				"rate": 419.11505593456366
+			}
+		]
+	},
+	{
+		"type": "GEMINI DOLLAR - approve",
+		"hash": "0x3ae67803eeda29de48baefbb5760f0458b2cb50a6f5b71e4d13f936a5d52908e",
+		"timestamp": "1616041188",
+		"rows": []
+	},
+	{
+		"type": "ZAPPER.FI - ZapIn",
+		"hash": "0x68f17fab1f8518d9dafa2a82b4e712de5fced5d17dd1c850a3eb549bdac827fa",
+		"timestamp": "1616041262",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x5acedba6c402e2682d312a7b4982eda0ccf2d2e3",
+				"amount": 29687,
+				"token": "GUSD",
+				"rate": 1.0020102561889415
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "0x5acedba6c402e2682d312a7b4982eda0ccf2d2e3",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 8863.096748781032,
+				"token": "UNI-V2",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "UNISWAP V2 - approve",
+		"hash": "0x5c53b39bb74965f71662bbe0f652cbb78a0f5eac5f8c35e88c39eab10241ac84",
+		"timestamp": "1616041495",
+		"rows": []
+	},
+	{
+		"type": "ALCHEMIX - approve",
+		"hash": "0xfe440995b0eebe1842311cf37d47b1854b4395ef6e1342dd7ff52e18ba8a6da1",
+		"timestamp": "1616041547",
+		"rows": []
+	},
+	{
+		"type": "DEFIDOLLAR - stake",
+		"hash": "0xe005a52e5dd4110bf0fc9dcb2215481a7175cc105b16a13ad81e08c3cd18aa81",
+		"timestamp": "1616041547",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xd62f34004ab3d7857d4031c076225939dda1afae",
+				"amount": 8863.096748781032,
+				"token": "UNI-V2",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "ALCHEMIX - transfer",
+		"hash": "0x8d983f7c6a7412840337394b699f6de3482b8c02aaad3475ce72008e64f56f18",
+		"timestamp": "1616041870",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xbd178fe085a12505473a96a57d6f2ce0bbf3a490",
+				"amount": 1.1572021381863542,
+				"token": "ALCX",
+				"rate": 419.11505593456366
+			}
+		]
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0x7954f369455be654e50a5e4806c2056309477aa3446d10281150b2e416740039",
+		"timestamp": "1616044311",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0xbd178fe085a12505473a96a57d6f2ce0bbf3a490",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 0.3,
+				"token": "ETH",
+				"rate": 1780.1596459528505
+			}
+		]
+	},
+	{
+		"type": "ZAPPER.FI - ZapIn",
+		"hash": "0x7f256afec07abbed74d2c7ba9152e4ca0566ba4240857f588dd39bed73be56d4",
+		"timestamp": "1616044549",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x5acedba6c402e2682d312a7b4982eda0ccf2d2e3",
+				"amount": 29000,
+				"token": "USDC",
+				"rate": 1.0042591904465838
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "0x5acedba6c402e2682d312a7b4982eda0ccf2d2e3",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 310.05448808667546,
+				"token": "UNI-V2",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "UNISWAP V2 - approve",
+		"hash": "0x03b54d879217e0fef08d61b64bda7f74764561064630b7345ab4808e0c8d1925",
+		"timestamp": "1616044850",
+		"rows": []
+	},
+	{
+		"type": "MIRROR PROTOCOL - transfer",
+		"hash": "0x4797ef643e5e0792f1afe8f8a857cf8c486d38280c6662e5245d3bfa84819d4d",
+		"timestamp": "1616044850",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xbd178fe085a12505473a96a57d6f2ce0bbf3a490",
+				"amount": 48.029958506854776,
+				"token": "MIR",
+				"rate": 2.8101129926728845
+			}
+		]
+	},
+	{
+		"type": "RALLY - deposit",
+		"hash": "0xdeac15efa939986d1e480c9578092bedc4a5b1789e729e9ddf6439aaf129b758",
+		"timestamp": "1616045372",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x9cf178df8ddb65b9ea7d4c2f5d1610eb82927230",
+				"amount": 310.05448808667546,
+				"token": "UNI-V2",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "RALLY - withdraw",
+		"hash": "0xe780faa9c6d2c25b771032e386249d4e8bde7032e47208bdb7608fd9429bbb30",
+		"timestamp": "1616113638",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0x9cf178df8ddb65b9ea7d4c2f5d1610eb82927230",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 163.79085040122,
+				"token": "RLY",
+				"rate": 0.5296032123614481
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "0x9cf178df8ddb65b9ea7d4c2f5d1610eb82927230",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 310.05448808667546,
+				"token": "UNI-V2",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "UNISWAP V2 - approve",
+		"hash": "0xeb1dd409fe367da988d8a4dbbf37986df0c78e0bde6a588fe846420dcc121687",
+		"timestamp": "1616113724",
+		"rows": []
+	},
+	{
+		"type": "ZAPPER.FI - ZapOut",
+		"hash": "0x2b5d4d05523acce3b762191fe5b341e025bf698e69ebe5f0942df5937adc263f",
+		"timestamp": "1616113739",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x69090d6968b12b79cd403ee33e871284dc7e92f6",
+				"amount": 310.05448808667546,
+				"token": "UNI-V2",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "ZAPPER.FI - ZapIn",
+		"hash": "0x3416a27ec683c1cd1de767448e2c7bd83fc312d2485867c797a11d9ba2ba0af8",
+		"timestamp": "1616114829",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xcff6ef0b9916682b37d80c19cff8949bc1886bc2",
+				"amount": 16,
+				"token": "ETH",
+				"rate": 1817.1329628084297
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "0xcff6ef0b9916682b37d80c19cff8949bc1886bc2",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 7.669517989845908,
+				"token": "SLP",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "SUSHISWAP - approve",
+		"hash": "0x5f4d960d94af34af37d6101b17cb43137084d1c6502ee9795af38a808de6c937",
+		"timestamp": "1616119542",
+		"rows": []
+	},
+	{
+		"type": "ALCHEMIX - deposit",
+		"hash": "0x22867849f9db0efa1d58541fdee60759cebce0f16090baade3293600f865c795",
+		"timestamp": "1616119639",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xab8e74017a8cc7c15ffccd726603790d26d7deca",
+				"amount": 7.669517989845908,
+				"token": "SLP",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0x2c13bdb4c55ddd50561df8c924e27f8bbb5a5ff37229c85b0444d95fbc46d6ea",
+		"timestamp": "1616202508",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x1141d6aeba4cc0d3fc2b71ae81340c12ac3e2024",
+				"amount": 0.4,
+				"token": "ETH",
+				"rate": 1817.8601431294944
+			}
+		]
+	},
+	{
+		"type": "ALCHEMIX - claim",
+		"hash": "0xca680736b99b68ee773414c3b3d056921d0ec905dce5fa3fc85654e82bf74691",
+		"timestamp": "1616215296",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0x0000000000000000000000000000000000000000",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 0.8202912214367237,
+				"token": "ALCX",
+				"rate": 419.11505593456366
+			}
+		]
+	},
+	{
+		"type": "ALCHEMIX - transfer",
+		"hash": "0x7aa310581b3c0863f825b2326fef772c6f9b96c5cd89a98f7ee80690cc15c4c1",
+		"timestamp": "1616215334",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xbd178fe085a12505473a96a57d6f2ce0bbf3a490",
+				"amount": 0.8202912214367237,
+				"token": "ALCX",
+				"rate": 419.11505593456366
+			}
+		]
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0xd6d9b9bac2957ca0e1a82be580f39f93b167706f54712c5cd327ea6c5e2075e9",
+		"timestamp": "1616262619",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x1141d6aeba4cc0d3fc2b71ae81340c12ac3e2024",
+				"amount": 0.4115418227790273,
+				"token": "ETH",
+				"rate": 1817.8601431294944
+			}
+		]
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0x14d7ea1b84ee8fa8b899c0f179b006d66e7c25f783f3e43ff883c56a1cbda7f8",
+		"timestamp": "1616262704",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0x1141d6aeba4cc0d3fc2b71ae81340c12ac3e2024",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 28.423732667261486,
+				"token": "ETH",
+				"rate": 1817.8601431294944
+			}
+		]
+	},
+	{
+		"type": "ZAPPER.FI - ZapIn",
+		"hash": "0xa26fe6c5e6c56dfa311e5c3b3f5c4e7b5da63a01eb6e4628db842a851b80d0b1",
+		"timestamp": "1616262940",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xcff6ef0b9916682b37d80c19cff8949bc1886bc2",
+				"amount": 28,
+				"token": "ETH",
+				"rate": 1817.8601431294944
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "0xcff6ef0b9916682b37d80c19cff8949bc1886bc2",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 12.907641250749952,
+				"token": "SLP",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "SUSHISWAP - approve",
+		"hash": "0x7c407ada5e8ea8890d79f8615288fd159bf36c28b165d5aab91cc219dbd0033b",
+		"timestamp": "1616263027",
+		"rows": []
+	},
+	{
+		"type": "ALCHEMIX - deposit",
+		"hash": "0xac5ad2f1ad1c59503c80e0a89f33fd74de2beb14961c6ef35036495b1735f236",
+		"timestamp": "1616263090",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xab8e74017a8cc7c15ffccd726603790d26d7deca",
+				"amount": 12.907641250749952,
+				"token": "SLP",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "ALCHEMIX - withdraw",
+		"hash": "0xa25e46f17dab4055a829b6f4a46cb728b945d1ffc86d8a0f75594df3e71de90b",
+		"timestamp": "1616303569",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0x0000000000000000000000000000000000000000",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 0.7158696029313232,
+				"token": "ALCX",
+				"rate": 419.11505593456366
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "0xab8e74017a8cc7c15ffccd726603790d26d7deca",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 26.45539625224966,
+				"token": "SLP",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "SUSHISWAP - approve",
+		"hash": "0x9c7e91cd89d4d8f31807b2202348d5a586d3b2053de2843ef3985a7aa55c1135",
+		"timestamp": "1616303681",
+		"rows": []
+	},
+	{
+		"type": "ZAPPER.FI - ZapOut",
+		"hash": "0x1e15477b58cf7bc5ffc0dd13fb808ddccdaf32152a8e9f17c793706290ac5820",
+		"timestamp": "1616303753",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x3351be9654188571a3e32388da582947928111ce",
+				"amount": 26.45539625224966,
+				"token": "SLP",
+				"rate": 0
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "0x3351be9654188571a3e32388da582947928111ce",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 99901.13078004801,
+				"token": "DAI",
+				"rate": 1.0037180051257384
+			}
+		]
+	},
+	{
+		"type": "DAI STABLECOIN - transfer",
+		"hash": "0xb06e3f0f6f0dd47e8bb0c798f73f6788929bca7756d155cd660f4d9ad0863aa4",
+		"timestamp": "1616349349",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xbd178fe085a12505473a96a57d6f2ce0bbf3a490",
+				"amount": 99901.13078004801,
+				"token": "DAI",
+				"rate": 1.0037180051257384
+			}
+		]
+	},
+	{
+		"type": "DEFIDOLLAR - exit",
+		"hash": "0xc1c0bac17905053393187b74b60fee63875b2bb50c24d8602deb3936c9cf6850",
+		"timestamp": "1616446411",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0xd62f34004ab3d7857d4031c076225939dda1afae",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 8863.096748781032,
+				"token": "UNI-V2",
+				"rate": 0
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "0xd62f34004ab3d7857d4031c076225939dda1afae",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 772.426568801041,
+				"token": "FRONT",
+				"rate": 1.0440932868291677
+			}
+		]
+	},
+	{
+		"type": "UNISWAP V2 - approve",
+		"hash": "0x94e8d50b91a5cf589f4254db737178740e9b7f97bf0ca33dff9eaec704141085",
+		"timestamp": "1616448940",
+		"rows": []
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0x106ade66c9e27e57153bdd91107fa8b1b5c2ee8cfc5071704a2c84885f251885",
+		"timestamp": "1616450328",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0xbd178fe085a12505473a96a57d6f2ce0bbf3a490",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 0.5,
+				"token": "ETH",
+				"rate": 1686.8911971580417
+			}
+		]
+	},
+	{
+		"type": "ZAPPER.FI - ZapOut",
+		"hash": "0xe9208380caa040b3eedde3a9e5da89366b8be26686efd6cc8fd87e28791596a5",
+		"timestamp": "1616451007",
+		"rows": []
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0x28cfbd15d7c0b9f938deef44b78e22d20ca3b33c3dc75e7a7b34ffec61b2a8ad",
+		"timestamp": "1616452136",
+		"rows": [
+			{
+				"tax_treatment": "buy",
+				"from": "0xbd178fe085a12505473a96a57d6f2ce0bbf3a490",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 0.18,
+				"token": "ETH",
+				"rate": 1686.8911971580417
+			}
+		]
+	},
+	{
+		"type": "FRONTIER - approve",
+		"hash": "0x0893141125c620e89d570278f9c1ccb5a14ad82ca6eee5c9077b63cd50443c4b",
+		"timestamp": "1616452179",
+		"rows": []
+	},
+	{
+		"type": "0X - unknown",
+		"hash": "0xfed67c8fc7aa916c412868d32f804487e2045980f4fe6ea876818e1b5233a5f1",
+		"timestamp": "1616452198",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x22f9dcf4647084d6c31b2765f6910cd85c178c18",
+				"amount": 772.426568801041,
+				"token": "FRONT",
+				"rate": 1.0440932868291677
+			},
+			{
+				"tax_treatment": "buy",
+				"from": "seom-contract",
+				"to": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"amount": 1.105376781180759472,
+				"token": "ETH",
+				"rate": 1686.8911971580417
+			}
+		]
+	},
+	{
+		"type": "ZAPPER.FI - ZapOut",
+		"hash": "0x1c65ab01f3a98d7d7aa85a0dea43cc2f6c612993ba0f28c66849bb20fcd46be7",
+		"timestamp": "1616453015",
+		"rows": []
+	},
+	{
+		"type": "ZAPPER.FI - ZapOut",
+		"hash": "0x468c22619ccb5cb9a79bfb795cab0d95cd499b4bb1460f3e1e21f88e2f02f375",
+		"timestamp": "1616453120",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0x69090d6968b12b79cd403ee33e871284dc7e92f6",
+				"amount": 8863.096748781032,
+				"token": "UNI-V2",
+				"rate": 0
+			}
+		]
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0xfb9631a97a5449d1abf403b79a8635e3fd20e8d2628b88278d0f82821e6f7497",
+		"timestamp": "1616453464",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xbd178fe085a12505473a96a57d6f2ce0bbf3a490",
+				"amount": 17.4,
+				"token": "ETH",
+				"rate": 1686.8911971580417
+			}
+		]
+	},
+	{
+		"type": "ALCHEMIX - transfer",
+		"hash": "0xd0fb924484ee153b692fd0d1888df74c310b557b411df4d1727467902425c443",
+		"timestamp": "1616455657",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xbd178fe085a12505473a96a57d6f2ce0bbf3a490",
+				"amount": 0.7158696029313232,
+				"token": "ALCX",
+				"rate": 419.11505593456366
+			}
+		]
+	},
+	{
+		"type": "unknown or transfer",
+		"hash": "0x0ee26062d76d5e2067f6b8b1b9e516705ae01c446eaa30bdc5dea469bab3d9af",
+		"timestamp": "1616802674",
+		"rows": [
+			{
+				"tax_treatment": "sell",
+				"from": "0x080ff97de1eaec8e6b5cbe25ca9417bc8c448673",
+				"to": "0xbd178fe085a12505473a96a57d6f2ce0bbf3a490",
+				"amount": 0.265457045173034,
+				"token": "ETH",
+				"rate": 1700.3668693581185
+			}
+		]
+	}
+]
